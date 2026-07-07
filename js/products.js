@@ -27,8 +27,8 @@ const STORE_SETTINGS = {
   // --- PAYMENTS: PUT YOUR OWN USERNAMES HERE ---------------------------
   // PayPal:  create a link at https://paypal.me  -> put the username here
   // Revolut: find your link in the Revolut app (Profile -> Revolut Me)
-  paypalUsername: "chachachakc@gmail.com",
-  revolutUsername: "@marcinhev9",
+  paypalUsername: "WatersideShop",
+  revolutUsername: "marcinhev9",
 
   // --- ORDER EMAILS ----------------------------------------------------
   // Orders are emailed to this address via formsubmit.co (free service).
